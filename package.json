@@ -1,0 +1,26 @@
+{
+  "name": "daily-check-in",
+  "version": "1.0.0",
+  "description": "一个打卡小程序, 基于 leancloud 数据存储。所以不需要建立额外的 webapp 和数据库。",
+  "main": "app.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you7588/daily-check-in.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you7588/daily-check-in/issues"
+  },
+  "homepage": "https://github.com/you7588/daily-check-in#readme",
+  "dependencies": {
+    "leancloud-realtime": "^3.5.7",
+    "leancloud-storage": "^3.4.2"
+  }
+}
