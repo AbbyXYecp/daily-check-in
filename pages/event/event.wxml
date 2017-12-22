@@ -6,8 +6,8 @@
       <view class="weui-cell__bd">
         <input
           class="weiui-input"
-          placeholder="标题" 
-          bindinput="updateTitle" 
+          placeholder="标题"
+          bindinput="updateTitle"
           value="{{title}}"/>
       </view>
     </view>
@@ -15,8 +15,8 @@
       <view class="weui-cell__bd">
         <textarea
           class="weui-textarea"
-          placeholder="详情" 
-          bindinput="updateContent" 
+          placeholder="详情"
+          bindinput="updateContent"
           value="{{content}}"/>
       </view>
     </view>

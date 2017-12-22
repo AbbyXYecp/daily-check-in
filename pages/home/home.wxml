@@ -2,6 +2,7 @@
   <view class="page__hd">
     <view class="page__title">打一卡</view>
     <view class="page__desc">如果你只能培养一个习惯，请培养打卡的习惯，因为它是培养习惯的习惯，是坚持做到某事的最重要技巧。原则上来说，应该在发生行为的第一时间就打卡记录。</view>
+    <map longitude="广州经度" latitude="广州纬度"></map>
   </view>
   <view class="page__bd page__bd_spacing">
     <navigator url="../event/event">

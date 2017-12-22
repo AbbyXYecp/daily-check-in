@@ -1,9 +1,11 @@
 const AV = require('./utils/av-live-query-weapp-min');
 
+// LeanCloud 应用的 ID 和 Key
 AV.init({
-  appId: '3DPOzSlYdVdkBDKrlPDgjx19-gzGzoHsz',
-  appKey: 'xxxxxxxxxx',
+  appId: 'JHEJ3Sbxa6K5Ooern2IgkNLW-gzGzoHsz',
+  appKey: 'hFB4dbMnfQXdzsegBAuD3Fg0',
 });
+
 
 App({
   onLaunch: function () {
